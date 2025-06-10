@@ -1,4 +1,5 @@
 ## Hi there 👋 I'm Abigail
+![Blue Modern Food Banner](https://github.com/user-attachments/assets/608c238e-014c-472f-9367-d21b0d5aee4e)
 
 <!--
 **abigailzemira/abigailzemira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
